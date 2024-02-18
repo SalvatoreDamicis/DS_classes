@@ -26,7 +26,7 @@ In the notebook folder there are the following lessons:
 ```bash
 py -3.8 -m venv .venv 
 .venv\Scripts\activate
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 ``` 
 
 
