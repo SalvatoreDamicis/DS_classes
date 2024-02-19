@@ -21,6 +21,7 @@ In the notebook folder there are the following lessons:
 - **Lesson 7**: Machine Learning lab
 - **Lesson 8**: Machine Learning lab 
 - **Lesson 9**: How use Data Science 
+- **Lesson ?**: Scraping
 
 ### How to set up and run 
 ```bash
