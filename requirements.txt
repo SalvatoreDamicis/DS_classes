@@ -2,3 +2,5 @@ pandas
 notebook
 seaborn
 streamlit
+plotly
+scipy
